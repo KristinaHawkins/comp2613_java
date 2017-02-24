@@ -1,0 +1,141 @@
+2017-02-21 16:41:30,618 main INFO  a00998715.Bcmc (Bcmc.java:59) - 2017-02-22T00:41:30.614Z
+2017-02-21 16:41:30,682 main INFO  a00998715.Bcmc (Bcmc.java:60) - Program started
+2017-02-21 16:41:30,709 main INFO  io.FileDataReader (FileDataReader.java:81) - Got successfully info from customers.dat file
+2017-02-21 16:41:30,720 main INFO  io.FileDataWriter (FileDataWriter.java:60) - Successfully wrote customers report into file
+2017-02-21 16:41:30,720 main INFO  io.Report (Report.java:61) - Printed customers
+2017-02-21 16:41:30,724 main INFO  io.FileDataReader (FileDataReader.java:129) - Got successfully info from inventory.dat file
+2017-02-21 16:41:30,775 main INFO  io.FileDataWriter (FileDataWriter.java:100) - Successfully wrote inventory report into file
+2017-02-21 16:41:30,775 main INFO  io.Report (Report.java:109) - Printed inventory
+2017-02-21 16:41:30,780 main INFO  io.FileDataReader (FileDataReader.java:105) - Got successfully info from motorcycles.dat file
+2017-02-21 16:41:30,783 main INFO  io.FileDataReader (FileDataReader.java:81) - Got successfully info from customers.dat file
+2017-02-21 16:41:30,785 main INFO  io.FileDataReader (FileDataReader.java:81) - Got successfully info from customers.dat file
+2017-02-21 16:41:30,789 main INFO  io.FileDataReader (FileDataReader.java:81) - Got successfully info from customers.dat file
+2017-02-21 16:41:30,792 main INFO  io.FileDataReader (FileDataReader.java:81) - Got successfully info from customers.dat file
+2017-02-21 16:41:30,794 main INFO  io.FileDataReader (FileDataReader.java:81) - Got successfully info from customers.dat file
+2017-02-21 16:41:30,797 main INFO  io.FileDataReader (FileDataReader.java:81) - Got successfully info from customers.dat file
+2017-02-21 16:41:30,799 main INFO  io.FileDataReader (FileDataReader.java:81) - Got successfully info from customers.dat file
+2017-02-21 16:41:30,799 main INFO  io.FileDataReader (FileDataReader.java:156) - Created Service list
+2017-02-21 16:41:30,806 main INFO  io.FileDataWriter (FileDataWriter.java:130) - Successfully wrote service report into file
+2017-02-21 16:41:30,807 main INFO  io.Report (Report.java:130) - Printed service
+2017-02-21 16:41:30,807 main INFO  a00998715.Bcmc (Bcmc.java:74) - 2017-02-22T00:41:30.807Z
+2017-02-21 16:41:30,807 main INFO  a00998715.Bcmc (Bcmc.java:75) - Program finished
+2017-02-21 16:41:30,808 main INFO  a00998715.Bcmc (Bcmc.java:76) - Duration: 193 ms
+2017-02-21 16:41:48,301 main INFO  a00998715.Bcmc (Bcmc.java:59) - 2017-02-22T00:41:48.297Z
+2017-02-21 16:41:48,368 main INFO  a00998715.Bcmc (Bcmc.java:60) - Program started
+2017-02-21 16:41:48,379 main INFO  io.FileDataReader (FileDataReader.java:129) - Got successfully info from inventory.dat file
+2017-02-21 16:41:48,431 main INFO  io.FileDataWriter (FileDataWriter.java:100) - Successfully wrote inventory report into file
+2017-02-21 16:41:48,431 main INFO  io.Report (Report.java:109) - Printed inventory
+2017-02-21 16:41:48,432 main INFO  a00998715.Bcmc (Bcmc.java:74) - 2017-02-22T00:41:48.432Z
+2017-02-21 16:41:48,432 main INFO  a00998715.Bcmc (Bcmc.java:75) - Program finished
+2017-02-21 16:41:48,432 main INFO  a00998715.Bcmc (Bcmc.java:76) - Duration: 135 ms
+2017-02-21 16:41:54,217 main INFO  a00998715.Bcmc (Bcmc.java:59) - 2017-02-22T00:41:54.214Z
+2017-02-21 16:41:54,292 main INFO  a00998715.Bcmc (Bcmc.java:60) - Program started
+2017-02-21 16:41:54,303 main INFO  io.FileDataReader (FileDataReader.java:129) - Got successfully info from inventory.dat file
+2017-02-21 16:41:54,305 main INFO  io.Report (Report.java:71) - By count
+2017-02-21 16:41:54,357 main INFO  io.FileDataWriter (FileDataWriter.java:100) - Successfully wrote inventory report into file
+2017-02-21 16:41:54,357 main INFO  io.Report (Report.java:109) - Printed inventory
+2017-02-21 16:41:54,357 main INFO  a00998715.Bcmc (Bcmc.java:74) - 2017-02-22T00:41:54.357Z
+2017-02-21 16:41:54,357 main INFO  a00998715.Bcmc (Bcmc.java:75) - Program finished
+2017-02-21 16:41:54,358 main INFO  a00998715.Bcmc (Bcmc.java:76) - Duration: 143 ms
+2017-02-21 16:42:01,285 main INFO  a00998715.Bcmc (Bcmc.java:59) - 2017-02-22T00:42:01.281Z
+2017-02-21 16:42:01,351 main INFO  a00998715.Bcmc (Bcmc.java:60) - Program started
+2017-02-21 16:42:01,363 main INFO  io.FileDataReader (FileDataReader.java:129) - Got successfully info from inventory.dat file
+2017-02-21 16:42:01,365 main INFO  io.Report (Report.java:71) - By count
+2017-02-21 16:42:01,426 main INFO  io.FileDataWriter (FileDataWriter.java:100) - Successfully wrote inventory report into file
+2017-02-21 16:42:01,426 main INFO  io.Report (Report.java:109) - Printed inventory
+2017-02-21 16:42:01,426 main INFO  a00998715.Bcmc (Bcmc.java:74) - 2017-02-22T00:42:01.426Z
+2017-02-21 16:42:01,426 main INFO  a00998715.Bcmc (Bcmc.java:75) - Program finished
+2017-02-21 16:42:01,427 main INFO  a00998715.Bcmc (Bcmc.java:76) - Duration: 145 ms
+2017-02-21 16:42:25,888 main INFO  a00998715.Bcmc (Bcmc.java:59) - 2017-02-22T00:42:25.882Z
+2017-02-21 16:42:25,956 main INFO  a00998715.Bcmc (Bcmc.java:60) - Program started
+2017-02-21 16:42:25,967 main INFO  io.FileDataReader (FileDataReader.java:129) - Got successfully info from inventory.dat file
+2017-02-21 16:42:25,970 main INFO  io.Report (Report.java:83) - By make BMW
+2017-02-21 16:42:25,984 main INFO  io.FileDataWriter (FileDataWriter.java:100) - Successfully wrote inventory report into file
+2017-02-21 16:42:25,984 main INFO  io.Report (Report.java:109) - Printed inventory
+2017-02-21 16:42:25,984 main INFO  a00998715.Bcmc (Bcmc.java:74) - 2017-02-22T00:42:25.984Z
+2017-02-21 16:42:25,984 main INFO  a00998715.Bcmc (Bcmc.java:75) - Program finished
+2017-02-21 16:42:25,985 main INFO  a00998715.Bcmc (Bcmc.java:76) - Duration: 102 ms
+2017-02-21 16:42:34,330 main INFO  a00998715.Bcmc (Bcmc.java:59) - 2017-02-22T00:42:34.327Z
+2017-02-21 16:42:34,400 main INFO  a00998715.Bcmc (Bcmc.java:60) - Program started
+2017-02-21 16:42:34,411 main INFO  io.FileDataReader (FileDataReader.java:129) - Got successfully info from inventory.dat file
+2017-02-21 16:42:34,414 main INFO  io.Report (Report.java:71) - By count
+2017-02-21 16:42:34,417 main INFO  io.Report (Report.java:83) - By make BMW
+2017-02-21 16:42:34,432 main INFO  io.FileDataWriter (FileDataWriter.java:100) - Successfully wrote inventory report into file
+2017-02-21 16:42:34,433 main INFO  io.Report (Report.java:109) - Printed inventory
+2017-02-21 16:42:34,433 main INFO  a00998715.Bcmc (Bcmc.java:74) - 2017-02-22T00:42:34.433Z
+2017-02-21 16:42:34,433 main INFO  a00998715.Bcmc (Bcmc.java:75) - Program finished
+2017-02-21 16:42:34,434 main INFO  a00998715.Bcmc (Bcmc.java:76) - Duration: 106 ms
+2017-02-21 16:42:54,475 main INFO  a00998715.Bcmc (Bcmc.java:59) - 2017-02-22T00:42:54.471Z
+2017-02-21 16:42:54,545 main INFO  a00998715.Bcmc (Bcmc.java:60) - Program started
+2017-02-21 16:42:54,557 main INFO  io.FileDataReader (FileDataReader.java:129) - Got successfully info from inventory.dat file
+2017-02-21 16:42:54,559 main INFO  io.Report (Report.java:71) - By count
+2017-02-21 16:42:54,561 main INFO  io.Report (Report.java:83) - By make BMW
+2017-02-21 16:42:54,575 main INFO  io.FileDataWriter (FileDataWriter.java:100) - Successfully wrote inventory report into file
+2017-02-21 16:42:54,575 main INFO  io.Report (Report.java:109) - Printed inventory
+2017-02-21 16:42:54,575 main INFO  a00998715.Bcmc (Bcmc.java:74) - 2017-02-22T00:42:54.575Z
+2017-02-21 16:42:54,575 main INFO  a00998715.Bcmc (Bcmc.java:75) - Program finished
+2017-02-21 16:42:54,576 main INFO  a00998715.Bcmc (Bcmc.java:76) - Duration: 104 ms
+2017-02-21 16:43:02,860 main INFO  a00998715.Bcmc (Bcmc.java:59) - 2017-02-22T00:43:02.856Z
+2017-02-21 16:43:02,937 main INFO  a00998715.Bcmc (Bcmc.java:60) - Program started
+2017-02-21 16:43:02,950 main INFO  io.FileDataReader (FileDataReader.java:105) - Got successfully info from motorcycles.dat file
+2017-02-21 16:43:02,976 main INFO  io.FileDataReader (FileDataReader.java:81) - Got successfully info from customers.dat file
+2017-02-21 16:43:02,979 main INFO  io.FileDataReader (FileDataReader.java:81) - Got successfully info from customers.dat file
+2017-02-21 16:43:02,981 main INFO  io.FileDataReader (FileDataReader.java:81) - Got successfully info from customers.dat file
+2017-02-21 16:43:02,985 main INFO  io.FileDataReader (FileDataReader.java:81) - Got successfully info from customers.dat file
+2017-02-21 16:43:02,989 main INFO  io.FileDataReader (FileDataReader.java:81) - Got successfully info from customers.dat file
+2017-02-21 16:43:02,992 main INFO  io.FileDataReader (FileDataReader.java:81) - Got successfully info from customers.dat file
+2017-02-21 16:43:02,994 main INFO  io.FileDataReader (FileDataReader.java:81) - Got successfully info from customers.dat file
+2017-02-21 16:43:02,996 main INFO  io.FileDataReader (FileDataReader.java:156) - Created Service list
+2017-02-21 16:43:03,009 main INFO  io.FileDataWriter (FileDataWriter.java:130) - Successfully wrote service report into file
+2017-02-21 16:43:03,009 main INFO  io.Report (Report.java:130) - Printed service
+2017-02-21 16:43:03,010 main INFO  a00998715.Bcmc (Bcmc.java:74) - 2017-02-22T00:43:03.010Z
+2017-02-21 16:43:03,010 main INFO  a00998715.Bcmc (Bcmc.java:75) - Program finished
+2017-02-21 16:43:03,010 main INFO  a00998715.Bcmc (Bcmc.java:76) - Duration: 154 ms
+2017-02-21 16:43:06,411 main INFO  a00998715.Bcmc (Bcmc.java:59) - 2017-02-22T00:43:06.406Z
+2017-02-21 16:43:06,501 main INFO  a00998715.Bcmc (Bcmc.java:60) - Program started
+2017-02-21 16:43:06,510 main INFO  io.FileDataReader (FileDataReader.java:105) - Got successfully info from motorcycles.dat file
+2017-02-21 16:43:06,540 main INFO  io.FileDataReader (FileDataReader.java:81) - Got successfully info from customers.dat file
+2017-02-21 16:43:06,543 main INFO  io.FileDataReader (FileDataReader.java:81) - Got successfully info from customers.dat file
+2017-02-21 16:43:06,546 main INFO  io.FileDataReader (FileDataReader.java:81) - Got successfully info from customers.dat file
+2017-02-21 16:43:06,548 main INFO  io.FileDataReader (FileDataReader.java:81) - Got successfully info from customers.dat file
+2017-02-21 16:43:06,551 main INFO  io.FileDataReader (FileDataReader.java:81) - Got successfully info from customers.dat file
+2017-02-21 16:43:06,553 main INFO  io.FileDataReader (FileDataReader.java:81) - Got successfully info from customers.dat file
+2017-02-21 16:43:06,556 main INFO  io.FileDataReader (FileDataReader.java:81) - Got successfully info from customers.dat file
+2017-02-21 16:43:06,556 main INFO  io.FileDataReader (FileDataReader.java:156) - Created Service list
+2017-02-21 16:43:06,566 main INFO  io.FileDataWriter (FileDataWriter.java:130) - Successfully wrote service report into file
+2017-02-21 16:43:06,566 main INFO  io.Report (Report.java:130) - Printed service
+2017-02-21 16:43:06,566 main INFO  a00998715.Bcmc (Bcmc.java:74) - 2017-02-22T00:43:06.566Z
+2017-02-21 16:43:06,566 main INFO  a00998715.Bcmc (Bcmc.java:75) - Program finished
+2017-02-21 16:43:06,567 main INFO  a00998715.Bcmc (Bcmc.java:76) - Duration: 160 ms
+2017-02-21 16:43:27,981 main INFO  a00998715.Bcmc (Bcmc.java:59) - 2017-02-22T00:43:27.974Z
+2017-02-21 16:43:28,046 main INFO  a00998715.Bcmc (Bcmc.java:60) - Program started
+2017-02-21 16:43:28,058 main INFO  io.FileDataReader (FileDataReader.java:105) - Got successfully info from motorcycles.dat file
+2017-02-21 16:43:28,082 main INFO  io.FileDataReader (FileDataReader.java:81) - Got successfully info from customers.dat file
+2017-02-21 16:43:28,084 main INFO  io.FileDataReader (FileDataReader.java:81) - Got successfully info from customers.dat file
+2017-02-21 16:43:28,087 main INFO  io.FileDataReader (FileDataReader.java:81) - Got successfully info from customers.dat file
+2017-02-21 16:43:28,089 main INFO  io.FileDataReader (FileDataReader.java:81) - Got successfully info from customers.dat file
+2017-02-21 16:43:28,090 main INFO  io.FileDataReader (FileDataReader.java:81) - Got successfully info from customers.dat file
+2017-02-21 16:43:28,092 main INFO  io.FileDataReader (FileDataReader.java:81) - Got successfully info from customers.dat file
+2017-02-21 16:43:28,093 main INFO  io.FileDataReader (FileDataReader.java:81) - Got successfully info from customers.dat file
+2017-02-21 16:43:28,094 main INFO  io.FileDataReader (FileDataReader.java:156) - Created Service list
+2017-02-21 16:43:28,101 main INFO  io.FileDataWriter (FileDataWriter.java:130) - Successfully wrote service report into file
+2017-02-21 16:43:28,101 main INFO  io.Report (Report.java:130) - Printed service
+2017-02-21 16:43:28,101 main INFO  a00998715.Bcmc (Bcmc.java:74) - 2017-02-22T00:43:28.101Z
+2017-02-21 16:43:28,101 main INFO  a00998715.Bcmc (Bcmc.java:75) - Program finished
+2017-02-21 16:43:28,102 main INFO  a00998715.Bcmc (Bcmc.java:76) - Duration: 127 ms
+2017-02-21 16:43:46,985 main INFO  a00998715.Bcmc (Bcmc.java:59) - 2017-02-22T00:43:46.981Z
+2017-02-21 16:43:47,050 main INFO  a00998715.Bcmc (Bcmc.java:60) - Program started
+2017-02-21 16:43:47,086 main INFO  io.FileDataReader (FileDataReader.java:81) - Got successfully info from customers.dat file
+2017-02-21 16:43:47,110 main INFO  io.FileDataWriter (FileDataWriter.java:60) - Successfully wrote customers report into file
+2017-02-21 16:43:47,110 main INFO  io.Report (Report.java:61) - Printed customers
+2017-02-21 16:43:47,110 main INFO  a00998715.Bcmc (Bcmc.java:74) - 2017-02-22T00:43:47.110Z
+2017-02-21 16:43:47,111 main INFO  a00998715.Bcmc (Bcmc.java:75) - Program finished
+2017-02-21 16:43:47,111 main INFO  a00998715.Bcmc (Bcmc.java:76) - Duration: 129 ms
+2017-02-21 16:43:51,026 main INFO  a00998715.Bcmc (Bcmc.java:59) - 2017-02-22T00:43:51.022Z
+2017-02-21 16:43:51,099 main INFO  a00998715.Bcmc (Bcmc.java:60) - Program started
+2017-02-21 16:43:51,136 main INFO  io.FileDataReader (FileDataReader.java:81) - Got successfully info from customers.dat file
+2017-02-21 16:43:51,159 main INFO  io.FileDataWriter (FileDataWriter.java:60) - Successfully wrote customers report into file
+2017-02-21 16:43:51,160 main INFO  io.Report (Report.java:61) - Printed customers
+2017-02-21 16:43:51,160 main INFO  a00998715.Bcmc (Bcmc.java:74) - 2017-02-22T00:43:51.160Z
+2017-02-21 16:43:51,160 main INFO  a00998715.Bcmc (Bcmc.java:75) - Program finished
+2017-02-21 16:43:51,160 main INFO  a00998715.Bcmc (Bcmc.java:76) - Duration: 138 ms

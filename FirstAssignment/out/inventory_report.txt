@@ -1,0 +1,20 @@
+Inventory Report
+--------------------------------------------------------------------------------------------------------
+Make+Model                     Description                    Part#           Price           Quantity         
+--------------------------------------------------------------------------------------------------------
+BMW+R75/5                      FILLISTER HEAD SCREW           1117653180      2.57            1134           
+BMW+R75/5                      ISA SCREW                      7129904700      2.48            795            
+BMW+R75/5                      SHEET METAL SCREW              7119906189      1.02            686            
+BMW+R75/5                      ISA SCREW                      7129903807      2.27            663            
+BMW+R75/5                      WOODRUFF KEY                   1272343243      4.91            580            
+BMW+R75/5                      WOODRUFF KEY                   1272343243      4.91            580            
+BMW+R75/5                      SCREW PLUG                     1447687368      2.72            135            
+BMW+R75/5                      SUPPORTING RING                6141182903      9.87            104            
+BMW+R75/5                      LAMP LENS                      3138534351      18.62           44             
+BMW+R75/5                      BRACKET, GENERATOR REGULATOR   1317690871      28.62           34             
+BMW+R75/5                      BALL PIN                       7147202359      3.49            20             
+BMW+R75/5                      COLLAR BUSH                    6717700591      13.85           19             
+BMW+R75/5                      HOSE RUNNING METER             3547709426      35.56           18             
+BMW+R75/5                      CLUTCH LEVER                   32727705606     99.72           17             
+BMW+R75/5                      FOOTREST, LEFT                 6717700913      80.31           13             
+BMW+R75/5                      FUEL PUMP, ELECTRONIC          6148523262      192.86          8              
