@@ -1,0 +1,63 @@
+2017-02-10 15:25:53.531 [main] INFO  a00998715.Lab5 - 2017-02-10T23:25:53.526Z
+2017-02-10 15:25:53.632 [main] INFO  a00998715.Lab5 - 2017-02-10T23:25:53.632Z
+2017-02-10 15:25:53.633 [main] INFO  a00998715.Lab5 - Duration: 106 ms
+2017-03-01 00:10:46.009 [main] INFO  a00998715.Lab7 - 2017-03-01T08:10:46.002Z
+2017-03-01 00:10:46.085 [main] DEBUG a00998715.database.Database - Loading database properties from db.properties
+2017-03-01 00:10:46.490 [main] DEBUG a00998715.database.CustomerDao - SELECT * FROM S715_Customer WHERE customerId = '1'
+2017-03-01 00:10:46.494 [main] DEBUG a00998715.database.CustomerDao - SELECT * FROM S715_Customer WHERE customerId = '2'
+2017-03-01 00:10:46.496 [main] DEBUG a00998715.database.CustomerDao - SELECT * FROM S715_Customer WHERE customerId = '3'
+2017-03-01 00:10:46.498 [main] DEBUG a00998715.database.CustomerDao - SELECT * FROM S715_Customer WHERE customerId = '4'
+2017-03-01 00:10:46.501 [main] DEBUG a00998715.database.CustomerDao - SELECT * FROM S715_Customer WHERE customerId = '5'
+2017-03-01 00:10:46.508 [main] INFO  a00998715.Lab7 - 2017-03-01T08:10:46.508Z
+2017-03-01 00:10:46.509 [main] INFO  a00998715.Lab7 - Duration: 506 ms
+2017-03-01 00:10:53.484 [main] INFO  a00998715.Lab7 - 2017-03-01T08:10:53.476Z
+2017-03-01 00:10:53.563 [main] DEBUG a00998715.database.Database - Loading database properties from db.properties
+2017-03-01 00:10:53.921 [main] DEBUG a00998715.database.Dao - drop table S715_Customer
+2017-03-01 00:10:53.976 [main] DEBUG a00998715.database.CustomerDao - create table S715_Customer(customerId VARCHAR(10), firstName VARCHAR(20), lastName VARCHAR(30), streetName VARCHAR(30), city VARCHAR(30), postalCode VARCHAR(30), phoneNUMBER VARCHAR(20), email VARCHAR(30), date VARCHAR(30), primary key (customerId) )
+2017-03-01 00:10:53.976 [main] DEBUG a00998715.database.Dao - create table S715_Customer(customerId VARCHAR(10), firstName VARCHAR(20), lastName VARCHAR(30), streetName VARCHAR(30), city VARCHAR(30), postalCode VARCHAR(30), phoneNUMBER VARCHAR(20), email VARCHAR(30), date VARCHAR(30), primary key (customerId) )
+2017-03-01 00:10:54.022 [main] DEBUG a00998715.database.CustomerDao - insert into S715_Customer values('1', 'Fred', 'Fish', '5707 Sidley St', 'Burnaby', 'V5J 5E6', '(604) 433-5004', 'fredfish@imperial.net', 'Mar 22 2008')
+2017-03-01 00:10:54.027 [main] DEBUG a00998715.database.CustomerDao - insert into S715_Customer values('2', 'Laurie', 'Nash', '2816 Commercial Dr', 'Vancouver', 'V5N 4C6', '(604) 876-0182', 'laurieeenash@modern.com', 'Aug 28 2014')
+2017-03-01 00:10:54.030 [main] DEBUG a00998715.database.CustomerDao - insert into S715_Customer values('3', 'Conrad', 'Washington', '13479 King George Blvd', 'Surrey', 'V3T 2T8', '(604) 588-4988', 'cwash@daytona.net', 'Jul 12 2011')
+2017-03-01 00:10:54.035 [main] DEBUG a00998715.database.CustomerDao - insert into S715_Customer values('4', 'Jeanette', 'Price', '21000 Westminster Hwy', 'Richmond', 'V6V 2S9', '(604) 276-2552', 'priceizrite@pacific.com', 'Oct 03 2015')
+2017-03-01 00:10:54.038 [main] DEBUG a00998715.database.CustomerDao - insert into S715_Customer values('5', 'Mark', 'Chan', '3766 E 1st Ave', 'Burnaby', 'V5C 3V9', '(604) 293-1022', 'mchan@hc.com', 'Apr 01 2010')
+2017-03-01 00:10:54.044 [main] DEBUG a00998715.database.CustomerDao - SELECT * FROM S715_Customer WHERE customerId = '1'
+2017-03-01 00:10:54.049 [main] DEBUG a00998715.database.CustomerDao - SELECT * FROM S715_Customer WHERE customerId = '2'
+2017-03-01 00:10:54.052 [main] DEBUG a00998715.database.CustomerDao - SELECT * FROM S715_Customer WHERE customerId = '3'
+2017-03-01 00:10:54.056 [main] DEBUG a00998715.database.CustomerDao - SELECT * FROM S715_Customer WHERE customerId = '4'
+2017-03-01 00:10:54.060 [main] DEBUG a00998715.database.CustomerDao - SELECT * FROM S715_Customer WHERE customerId = '5'
+2017-03-01 00:10:54.067 [main] INFO  a00998715.Lab7 - 2017-03-01T08:10:54.067Z
+2017-03-01 00:10:54.067 [main] INFO  a00998715.Lab7 - Duration: 591 ms
+2017-03-01 00:11:16.200 [main] INFO  a00998715.Lab7 - 2017-03-01T08:11:16.194Z
+2017-03-01 00:11:16.271 [main] DEBUG a00998715.database.Database - Loading database properties from db.properties
+2017-03-01 00:11:16.630 [main] DEBUG a00998715.database.Dao - drop table S715_Customer
+2017-03-01 00:11:16.684 [main] DEBUG a00998715.database.CustomerDao - create table S715_Customer(customerId VARCHAR(10), firstName VARCHAR(20), lastName VARCHAR(30), streetName VARCHAR(30), city VARCHAR(30), postalCode VARCHAR(30), phoneNUMBER VARCHAR(20), email VARCHAR(30), date VARCHAR(30), primary key (customerId) )
+2017-03-01 00:11:16.684 [main] DEBUG a00998715.database.Dao - create table S715_Customer(customerId VARCHAR(10), firstName VARCHAR(20), lastName VARCHAR(30), streetName VARCHAR(30), city VARCHAR(30), postalCode VARCHAR(30), phoneNUMBER VARCHAR(20), email VARCHAR(30), date VARCHAR(30), primary key (customerId) )
+2017-03-01 00:11:16.718 [main] DEBUG a00998715.database.CustomerDao - insert into S715_Customer values('1', 'Fred', 'Fish', '5707 Sidley St', 'Burnaby', 'V5J 5E6', '(604) 433-5004', 'fredfish@imperial.net', 'Mar 22 2008')
+2017-03-01 00:11:16.723 [main] DEBUG a00998715.database.CustomerDao - insert into S715_Customer values('2', 'Laurie', 'Nash', '2816 Commercial Dr', 'Vancouver', 'V5N 4C6', '(604) 876-0182', 'laurieeenash@modern.com', 'Aug 28 2014')
+2017-03-01 00:11:16.727 [main] DEBUG a00998715.database.CustomerDao - insert into S715_Customer values('3', 'Conrad', 'Washington', '13479 King George Blvd', 'Surrey', 'V3T 2T8', '(604) 588-4988', 'cwash@daytona.net', 'Jul 12 2011')
+2017-03-01 00:11:16.740 [main] DEBUG a00998715.database.CustomerDao - insert into S715_Customer values('4', 'Jeanette', 'Price', '21000 Westminster Hwy', 'Richmond', 'V6V 2S9', '(604) 276-2552', 'priceizrite@pacific.com', 'Oct 03 2015')
+2017-03-01 00:11:16.743 [main] DEBUG a00998715.database.CustomerDao - insert into S715_Customer values('5', 'Mark', 'Chan', '3766 E 1st Ave', 'Burnaby', 'V5C 3V9', '(604) 293-1022', 'mchan@hc.com', 'Apr 01 2010')
+2017-03-01 00:11:16.749 [main] DEBUG a00998715.database.CustomerDao - SELECT * FROM S715_Customer WHERE customerId = '1'
+2017-03-01 00:11:16.753 [main] DEBUG a00998715.database.CustomerDao - SELECT * FROM S715_Customer WHERE customerId = '2'
+2017-03-01 00:11:16.756 [main] DEBUG a00998715.database.CustomerDao - SELECT * FROM S715_Customer WHERE customerId = '3'
+2017-03-01 00:11:16.759 [main] DEBUG a00998715.database.CustomerDao - SELECT * FROM S715_Customer WHERE customerId = '4'
+2017-03-01 00:11:16.762 [main] DEBUG a00998715.database.CustomerDao - SELECT * FROM S715_Customer WHERE customerId = '5'
+2017-03-01 00:11:16.773 [main] INFO  a00998715.Lab7 - 2017-03-01T08:11:16.773Z
+2017-03-01 00:11:16.773 [main] INFO  a00998715.Lab7 - Duration: 579 ms
+2017-03-01 00:11:18.909 [main] INFO  a00998715.Lab7 - 2017-03-01T08:11:18.904Z
+2017-03-01 00:11:18.981 [main] DEBUG a00998715.database.Database - Loading database properties from db.properties
+2017-03-01 00:11:19.335 [main] DEBUG a00998715.database.Dao - drop table S715_Customer
+2017-03-01 00:11:19.391 [main] DEBUG a00998715.database.CustomerDao - create table S715_Customer(customerId VARCHAR(10), firstName VARCHAR(20), lastName VARCHAR(30), streetName VARCHAR(30), city VARCHAR(30), postalCode VARCHAR(30), phoneNUMBER VARCHAR(20), email VARCHAR(30), date VARCHAR(30), primary key (customerId) )
+2017-03-01 00:11:19.391 [main] DEBUG a00998715.database.Dao - create table S715_Customer(customerId VARCHAR(10), firstName VARCHAR(20), lastName VARCHAR(30), streetName VARCHAR(30), city VARCHAR(30), postalCode VARCHAR(30), phoneNUMBER VARCHAR(20), email VARCHAR(30), date VARCHAR(30), primary key (customerId) )
+2017-03-01 00:11:19.428 [main] DEBUG a00998715.database.CustomerDao - insert into S715_Customer values('1', 'Fred', 'Fish', '5707 Sidley St', 'Burnaby', 'V5J 5E6', '(604) 433-5004', 'fredfish@imperial.net', 'Mar 22 2008')
+2017-03-01 00:11:19.435 [main] DEBUG a00998715.database.CustomerDao - insert into S715_Customer values('2', 'Laurie', 'Nash', '2816 Commercial Dr', 'Vancouver', 'V5N 4C6', '(604) 876-0182', 'laurieeenash@modern.com', 'Aug 28 2014')
+2017-03-01 00:11:19.439 [main] DEBUG a00998715.database.CustomerDao - insert into S715_Customer values('3', 'Conrad', 'Washington', '13479 King George Blvd', 'Surrey', 'V3T 2T8', '(604) 588-4988', 'cwash@daytona.net', 'Jul 12 2011')
+2017-03-01 00:11:19.445 [main] DEBUG a00998715.database.CustomerDao - insert into S715_Customer values('4', 'Jeanette', 'Price', '21000 Westminster Hwy', 'Richmond', 'V6V 2S9', '(604) 276-2552', 'priceizrite@pacific.com', 'Oct 03 2015')
+2017-03-01 00:11:19.448 [main] DEBUG a00998715.database.CustomerDao - insert into S715_Customer values('5', 'Mark', 'Chan', '3766 E 1st Ave', 'Burnaby', 'V5C 3V9', '(604) 293-1022', 'mchan@hc.com', 'Apr 01 2010')
+2017-03-01 00:11:19.456 [main] DEBUG a00998715.database.CustomerDao - SELECT * FROM S715_Customer WHERE customerId = '1'
+2017-03-01 00:11:19.461 [main] DEBUG a00998715.database.CustomerDao - SELECT * FROM S715_Customer WHERE customerId = '2'
+2017-03-01 00:11:19.464 [main] DEBUG a00998715.database.CustomerDao - SELECT * FROM S715_Customer WHERE customerId = '3'
+2017-03-01 00:11:19.487 [main] DEBUG a00998715.database.CustomerDao - SELECT * FROM S715_Customer WHERE customerId = '4'
+2017-03-01 00:11:19.489 [main] DEBUG a00998715.database.CustomerDao - SELECT * FROM S715_Customer WHERE customerId = '5'
+2017-03-01 00:11:19.498 [main] INFO  a00998715.Lab7 - 2017-03-01T08:11:19.498Z
+2017-03-01 00:11:19.498 [main] INFO  a00998715.Lab7 - Duration: 594 ms
