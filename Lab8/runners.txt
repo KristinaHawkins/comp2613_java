@@ -1,0 +1,9 @@
+Lane|Bib#|Country|LastName|FirstName|Reaction
+6|2612|JAM|Bolt|Usain|0.155
+4|3069|USA|Gatlin|Justin|0.152
+7|2196|Can|De Grasse|Andre|0.141
+9|2611|Jam|Blake|Yohan|0.145
+3|2909|RSA|Simbine|Akani|0.128
+8|2245|Civ|Meite|Ben Youssef|0.156
+5|2434|Fra|Vicaut|Jimmy|0.140
+2|3054|USA|Bromello|Trayvon|0.135
